@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Joseph Le" />
+</h1>
 
-<!--
-**JosephLeKH/JosephLeKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey There! 👋
+I'm Joseph, an ambitious high school CS student who's passionate about technology and coding
+Most of my projects here are personal Python projects guided by [100 Days of Code]([https://communitylabs.com](https://www.udemy.com/course/100-days-of-code/)
 
-Here are some ideas to get you started:
+- 🦔 Operation team member and teacher at [AiGoLearning](https://aigolearning.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Assistant manager at [Pho Mac](https://www.phomacrestaurants.com/) restaurant
+  
++ a lot more ;)
+
+## Skills
+- 👨‍💻 Python, Java, HTML, CSS, Javascript
+- ⚙️ BeautifulSoup, Jinja
+- 👁️ Bootstrap, Flask, Jinja, WTForms
+- 💪 Pandas, Matplotlib
+- 💽 MySQL, SQL
++ a lot more :D
+
+## Contact
+- [Joseph Le](www.linkedin.com/in/joseph-le-b32871207) on LinkedIn
