@@ -10,7 +10,7 @@ Most of my projects here are personal Python projects guided by [100 Days of Cod
 
 - 👨‍💻 Assistant manager at [Pho Mac](https://www.phomacrestaurants.com/) restaurant
   
-+ a lot more ;)
++ a lot more :)
 
 ## Skills
 - 👨‍💻 Python, Java, HTML, CSS, Javascript
