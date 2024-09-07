@@ -6,12 +6,6 @@
 I'm Joseph, a Stanford computer science student who's passionate about technology and coding
 
 Most of my projects here are personal Python projects guided by [100 Days of Code](https://www.udemy.com/course/100-days-of-code/)
-
-- 🦔 Software developer at [AiGo Learning](https://aigolearning.org/)
-
-- 💪 Computer science instructor at [Thinkland AI](https://thinkland.ai/)
-
-- 👨‍💻 Assistant manager at [Pho Mac](https://www.phomacrestaurants.com/) restaurant
   
 + a lot more :)
 
