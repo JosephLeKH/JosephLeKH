@@ -1,3 +1,44 @@
+# 🏆 Welcome to Joseph Le's GitHub! 🏆  
+**Stanford University | Computer Science & Mathematics | QuestBridge Scholar**  
+📧 josephle@stanford.edu | 🌐 [github.com/JosephLeKH](https://github.com/JosephLeKH)  
+
+---
+
+## 📘 About Me
+
+Hello! I'm **Joseph Le**, a passionate Computer Science and Mathematics student at **Stanford University** with a flair for problem-solving and a commitment to using technology for positive impact. With hands-on experience in software engineering and education, I enjoy building innovative projects that bridge the gap between complex algorithms and user-friendly solutions.
+
+---
+
+## 🎓 Education  
+**Stanford University**  
+_Bachelor of Science in Computer Science & Mathematics_  
+📍 Palo Alto, CA | _Graduation: Dec 2027_  
+- QuestBridge Scholar  
+- National Merit Scholar  
+
+---
+
+## 💼 Work Experience  
+
+**Software Engineering Intern** | **AiGo Learning** | Remote  
+_Jun 2023 – Aug 2024_  
+- Developed seamless integrations for Zoom, automated email systems, and user management features, boosting engagement by 40%.  
+- Created a Discord bot for workflow automation, improving task completion rates by 30%.  
+- Built a student contribution portal, increasing project submissions by 50%.  
+
+**Computer Science Instructor** | **Thinkland AI** | Remote  
+_May 2023 – Aug 2024_  
+- Designed personalized lesson plans and real-world programming projects, increasing student comprehension by 15%.  
+- Boosted student engagement by 20% through interactive programming challenges.  
+
+**Assistant Manager** | **Pho Mac** | Plano, TX  
+_Jun 2020 – Jul 2024_  
+- Spearheaded the development of a customer-centric website, increasing online sales by 30%.  
+- Streamlined operations for two locations, reducing labor costs by 15%.  
+
+---
+
 ## 🌟 Featured Projects  
 
 ### [ACM Bird Classification](https://github.com/JosephLeKH/ACM-Bird-Classification)  
@@ -66,4 +107,47 @@
 ### [Flights Deal Club](https://github.com/JosephLeKH/flights-deal-club)  
 ✈️ **Making Travel Affordable**  
 - Automated a system for monitoring airline fares and sending real-time email alerts to users.  
-- Implemented a customer acquisition pipeline, streamlining subscription and boosting efficiency for bargain-hunting travelers.  
+- Implemented a customer acquisition pipeline, streamlining subscription and boosting efficiency for bargain-hunting travelers.
+- 
+---
+
+## 🛠️ Skills  
+
+**Programming Languages**: Python, Java, C++, MATLAB, JavaScript, HTML, CSS  
+**Libraries & Tools**: TensorFlow, PyTorch, Pandas, Flask, Selenium, SQLite, Matplotlib, Beautiful Soup  
+**Specialties**: Machine Learning, GUI Design, Backend Development, API Integration  
+
+---
+
+## 📈 GitHub Highlights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JosephLeKH&show_icons=true&theme=tokyonight" alt="Joseph's GitHub Stats" width="50%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLeKH&layout=compact&theme=tokyonight" alt="Top Languages" width="42%"/>
+</p>
+
+---
+
+## 🎯 Extracurricular Activities  
+
+- **Stanford ACM**:  
+  _MLab Team (Sep 2024 – Present)_  
+  - Developed a CNN for bird classification with 98% accuracy.  
+  - Won first place in the club's Estimathon competition.  
+
+- **Stanford CS + Social Good**:  
+  _Industry Team (Sep 2024 – Present)_  
+  - Organized networking events, increasing student engagement by 20%.  
+
+---
+
+## 📬 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-le)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:josephle@stanford.edu)  
+
+---
+
+✨ _Proud Cardinal, aspiring innovator, and technology enthusiast!_  
+
