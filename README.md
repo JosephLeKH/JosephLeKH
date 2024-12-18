@@ -119,16 +119,6 @@ _Jun 2020 – Jul 2024_
 
 ---
 
-## 📈 GitHub Highlights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosephLeKH&show_icons=true&theme=tokyonight" alt="Joseph's GitHub Stats" width="50%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLeKH&layout=compact&theme=tokyonight" alt="Top Languages" width="42%"/>
-</p>
-
----
-
 ## 🎯 Extracurricular Activities  
 
 - **Stanford ACM**:  
