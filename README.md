@@ -59,7 +59,7 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 
 **Languages**: Python, Java, C++, MATLAB, JavaScript, HTML, CSS 🌐  
 **Tools**: TensorFlow, PyTorch, Flask, Selenium, SQLite, Pandas 🤖  
-**Specialties**: Machine Learning, Backend Development, GUI Design 🛠️  
+**Specialties**: Data Engineering & Analysis, Machine Learning, Backend Development 🛠️  
 
 ---
 
