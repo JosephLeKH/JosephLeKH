@@ -41,6 +41,7 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 | [Maze Solver](https://github.com/JosephLeKH/maze_solver_graphic)                 | Visualizes BFS/DFS algorithms solving mazes in real time.                                          |
 | [Tile Puzzle Solver](https://github.com/JosephLeKH/tile_puzzler_game_and_solver) | Solves tile puzzles intelligently using pattern-matching algorithms.                              |
 | [Password Manager](https://github.com/JosephLeKH/gui-password-manager)           | A secure and easy-to-use GUI app for managing encrypted passwords.                                 |
+| [Nutrition Tracker](https://github.com/JosephLeKH/GUIDailyNutritionTracker)             | Calculates and store user's daily nutritional intake on a modern GUI design.                |
 | [Flights Deal Club](https://github.com/JosephLeKH/flights-deal-club)             | Automates airfare monitoring with real-time email alerts for the best travel deals.                |
 
 ---
