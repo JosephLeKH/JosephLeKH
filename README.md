@@ -45,21 +45,21 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 
 ---
 
+## 🎯 **Extracurriculars**
+- **Stanford Data and Mapping for Society**:  
+  🌞 Solar Water Team (Dec 2024 – Present): Building a data-driven response system for the OASIS box using thresholds based on measured metrics.
+- **Stanford ACM**:  
+  🔄 MLab Team (Sep 2024 – Present): Built a CNN for bird classification. Won first place in Estimathon!
+- **Stanford CS + Social Good**:  
+  ✨ Industry Team (Sep 2024 – Present): Organized networking events boosting engagement by 20%.
+
+---
+
 ## 🛠️ **Skills**
 
 **Languages**: Python, Java, C++, MATLAB, JavaScript, HTML, CSS 🌐  
 **Tools**: TensorFlow, PyTorch, Flask, Selenium, SQLite, Pandas 🤖  
 **Specialties**: Machine Learning, Backend Development, GUI Design 🛠️  
-
----
-
-## 🎯 **Extracurriculars**
-- **Stanford Data and Mapping for Society**:  
-  🌞 Solar Water Data Team (Dec 2024 – Present): Worked on a solar-powered water purification project for disaster struck areas.
-- **Stanford ACM**:  
-  🔄 MLab Team (Sep 2024 – Present): Built a CNN for bird classification. Won first place in Estimathon!
-- **Stanford CS + Social Good**:  
-  ✨ Industry Team (Sep 2024 – Present): Organized networking events boosting engagement by 20%.
 
 ---
 
