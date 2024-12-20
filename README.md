@@ -32,7 +32,7 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 
 | Project                     | Description                                                                                             |
 |-----------------------------|---------------------------------------------------------------------------------------------------------|
-| [ACM Bird Classification](https://github.com/JosephLeKH/ACM-Bird-Classification) | A CNN with **88% accuracy** classifying bird species for ecological conservation.                   |
+| [ACM Bird Classification](https://github.com/JosephLeKH/acm_cnn_bird_classification) | A CNN with **88% accuracy** classifying bird species for ecological conservation.                   |
 | [PoliAware](https://github.com/NextGenPolicTech/PoliAware)                              | Connects users with their representatives using real-time political data and dynamic APIs.          |
 | [Tone Matrix](https://github.com/JosephLeKH/tone_matrix)                         | A fun **16x16 grid synthesizer** that turns user toggles into rhythms and melodies.                |
 | [Huffman Encoding](https://github.com/JosephLeKH/huffman_encoding)               | Implements **Huffman Coding** for file compression with an intuitive CLI tool.                     |
