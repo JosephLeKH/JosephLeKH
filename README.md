@@ -1,6 +1,6 @@
 # 🏆 **Welcome to Joseph Le's GitHub!** 🏆  
 **Stanford University | Computer Science & Mathematics | QuestBridge Scholar**  
-📧 josephle@stanford.edu | 🌐 [linkedin.com/in/hung-le-](www.linkedin.com/in/hung-le-)  
+📧 josephle@stanford.edu | 🌐 [linkedin.com/in/hung-le-](www.linkedin.com/in/hung-le-/)  
 
 ---
 
