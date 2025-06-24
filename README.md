@@ -12,7 +12,8 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 
 ## 🎓 **Education**  
 - **Stanford University** | B.S. in Computer Science & Mathematics  
-  ✈ Palo Alto, CA | Graduation: Dec 2027  
+  ✈ Palo Alto, CA | Graduation: Dec 2027
+- SC+Social Goods Fellow 
 - QuestBridge Scholar 💸  
 - National Merit Scholar 🌟  
 
@@ -24,7 +25,6 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 |--------------------------|------------------|--------------------------|
 | Software Developer | AiGo Learning   | Jun 2023 – Aug 2024     |
 | Computer Science Instructor | Thinkland AI    | May 2023 – Aug 2024     |
-| Assistant Manager        | Pho Mac          | Jun 2020 – Jul 2024     |
 
 ---
 
