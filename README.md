@@ -23,6 +23,7 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 
 | Role                     | Company          | Time                     |
 |--------------------------|------------------|--------------------------|
+| Data Science Intern | Bonterra   | Jun 2024 – Aug 2025     |
 | Software Developer | AiGo Learning   | Jun 2023 – Aug 2024     |
 | Computer Science Instructor | Thinkland AI    | May 2023 – Aug 2024     |
 
@@ -47,18 +48,18 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 ---
 
 ## 🎯 **Extracurriculars**
+- **Stanford CS + Social Good**:  
+  ✨ Vice President (Sep 2024 – Present): Support the President and broader team by taking on delegated tasks across operations and event planning.
 - **Stanford Data and Mapping for Society**:  
-  🌞 Solar Water Team (Dec 2024 – Present): Building a data-driven response system for the OASIS box using thresholds based on measured metrics.
+  🌞 Solar Water Team (Jan 2025 – Present): Building a data-driven response system for the OASIS box using thresholds based on measured metrics.
 - **Stanford ACM**:  
   🔄 MLab Team (Sep 2024 – Present): Built a CNN for bird classification. Won first place in Estimathon!
-- **Stanford CS + Social Good**:  
-  ✨ Industry Team (Sep 2024 – Present): Organized networking events boosting engagement by 20%.
 
 ---
 
 ## 🛠️ **Skills**
 
-**Languages**: Python, Java, C++, MATLAB, JavaScript, HTML, CSS 🌐  
+**Languages**: Python, Java, C++, SQL, MATLAB, JavaScript, HTML, CSS 🌐  
 **Tools**: TensorFlow, PyTorch, Flask, Selenium, SQLite, Pandas 🤖  
 **Specialties**: Data Engineering & Analysis, Machine Learning, Backend Development 🛠️  
 
