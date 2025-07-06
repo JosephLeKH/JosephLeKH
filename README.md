@@ -49,7 +49,7 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 ---
 
 ## 🎯 **Extracurriculars**
-- **Stanford CS + Social Good**:  
+- **Stanford CS + Social Goods**:  
   ✨ Vice President (Sep 2024 – Present): Support the President and broader team by taking on delegated tasks across operations and event planning.
 - **Stanford Data and Mapping for Society**:  
   🌞 Solar Water Team (Jan 2025 – Present): Building a data-driven response system for the OASIS box using thresholds based on measured metrics.
