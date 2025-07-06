@@ -33,6 +33,7 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 
 | Project                     | Description                                                                                             |
 |-----------------------------|---------------------------------------------------------------------------------------------------------|
+| [SemEval 2025 Task 11](https://github.com/JosephLeKH/semeval2025_task11_trackb) | Multilingual BERT-based model for emotion intensity prediction across 11 languages.                   |
 | [ACM Bird Classification](https://github.com/JosephLeKH/acm_cnn_bird_classification) | A CNN with **88% accuracy** classifying bird species for ecological conservation.                   |
 | [PoliAware](https://github.com/NextGenPolicTech/PoliAware)                              | Connects users with their representatives using real-time political data and dynamic APIs.          |
 | [Tone Matrix](https://github.com/JosephLeKH/tone_matrix)                         | A fun **16x16 grid synthesizer** that turns user toggles into rhythms and melodies.                |
