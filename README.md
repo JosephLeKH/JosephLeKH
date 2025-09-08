@@ -37,6 +37,7 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 
 | Project                     | Description                                                                                             |
 |-----------------------------|---------------------------------------------------------------------------------------------------------|
+| [CA Wildfire Insurance Analysis](https://github.com/JosephLeKH/wildfire_insurance_analysis) | Data science analysis of how California wildfires reshape home insurance markets. |
 | [SemEval 2025 Task 11](https://github.com/JosephLeKH/semeval2025_task11_trackb) | Multilingual BERT-based model for emotion intensity prediction across 11 languages.                   |
 | [NBA Curry ML Analysis](https://github.com/JosephLeKH/nba_curry_ml_analysis) | A data science and ML study quantifying Stephen Curry’s impact on the Warriors across 15 NBA seasons. |
 | [ACM Bird Classification](https://github.com/JosephLeKH/acm_cnn_bird_classification) | A CNN with **88% accuracy** classifying bird species for ecological conservation.                   |
@@ -48,7 +49,6 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 | [Maze Solver](https://github.com/JosephLeKH/maze_solver_graphic)                 | Visualizes BFS/DFS algorithms solving mazes in real time.                                          |
 | [Tile Puzzle Solver](https://github.com/JosephLeKH/tile_puzzler_game_and_solver) | Solves tile puzzles intelligently using pattern-matching algorithms.                              |
 | [Password Manager](https://github.com/JosephLeKH/gui-password-manager)           | A secure and easy-to-use GUI app for managing encrypted passwords.                                 |
-| [Nutrition Tracker](https://github.com/JosephLeKH/GUIDailyNutritionTracker)             | Calculates and store user's daily nutritional intake on a modern GUI design.                |
 
 ---
 
