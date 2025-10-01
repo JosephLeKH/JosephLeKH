@@ -23,12 +23,12 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 
 | Role                     | Company          | Time                     |
 |--------------------------|------------------|--------------------------|
-| Founding Software Engineer | Bases Insight   | Sep 2025 - Present     |
+| Founding Software Engineer | Bases Insight   | Aug 2025 - Present     |
 | CS Section Leader | Stanford University   | Sep 2025 - Present     |
+| AI and Machine Learning Intern | Jersey Mike's Sub   | May 2024 – Present     |
 | Data Science Intern | Bonterra   | Jun 2024 – Aug 2025     |
-| AI/ML Intern | Jersey Mike's Sub   | Jun 2024 – Aug 2025     |
 | Data Science & SWE Team | Stanford Data and Mapping for Society   | Jan 2025 – June 2025     |
-| SWE Intern | AiGo Learning   | Jun 2023 – Aug 2024     |
+| Full-Stack Software Engineering Intern | AiGo Learning   | Jun 2023 – Aug 2024     |
 | Computer Science Instructor | Thinkland AI    | May 2023 – Aug 2024     |
 
 ---
