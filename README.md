@@ -11,8 +11,8 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 ---
 
 ## 🎓 **Education**  
-- **Stanford University** | B.S. in Computer Science & Data Science
-  ✈ Palo Alto, CA | Graduation: June 2028
+- **Stanford University** | B.S. in Math and Computer Science
+  ✈ Palo Alto, CA | Graduation: June 2027
 - CS+Social Goods Fellow 
 - QuestBridge Scholar 💸  
 - National Merit Scholar 🌟  
