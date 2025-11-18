@@ -23,9 +23,10 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 
 | Role                     | Company          | Time                     |
 |--------------------------|------------------|--------------------------|
+| Machine Learning Intern | NeuroTrack   | Oct 2025 - Present     |
 | Founding Software Engineer | Bases Insight   | Aug 2025 - Present     |
-| CS Section Leader | Stanford University   | Sep 2025 - Present     |
-| AI and Machine Learning Intern | Jersey Mike's Sub   | May 2024 – Present     |
+| CS 106A/B Teaching Assistant | Stanford University   | Sep 2025 - Present     |
+| AI and Machine Learning Intern | Jersey Mike's Sub   | May 2025 – Oct 2025     |
 | Data Science Intern | Bonterra   | Jun 2024 – Aug 2025     |
 | Data Science & SWE Team | Stanford Data and Mapping for Society   | Jan 2025 – June 2025     |
 | Full-Stack Software Engineering Intern | AiGo Learning   | Jun 2023 – Aug 2024     |
@@ -37,6 +38,7 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 
 | Project                     | Description                                                                                             |
 |-----------------------------|---------------------------------------------------------------------------------------------------------|
+| [GrantMate](https://github.com/JosephLeKH/GrantMate) | AI assistant automating grant writing using RAG, semantic search, and sponsor-aware tailoring. |
 | [CA Wildfire Insurance Analysis](https://github.com/JosephLeKH/wildfire_insurance_analysis) | Data science analysis of how California wildfires reshape home insurance markets. |
 | [SemEval 2025 Task 11](https://github.com/JosephLeKH/semeval2025_task11_trackb) | Multilingual BERT-based model for emotion intensity prediction across 11 languages.                   |
 | [NBA Curry ML Analysis](https://github.com/JosephLeKH/nba_curry_ml_analysis) | A data science and ML study quantifying Stephen Curry’s impact on the Warriors across 15 NBA seasons. |
@@ -48,7 +50,6 @@ Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and pro
 | [Blackjack Game](https://github.com/JosephLeKH/blackjack-game)                   | A customizable Java Blackjack game with a sleek, user-friendly GUI.                                |
 | [Maze Solver](https://github.com/JosephLeKH/maze_solver_graphic)                 | Visualizes BFS/DFS algorithms solving mazes in real time.                                          |
 | [Tile Puzzle Solver](https://github.com/JosephLeKH/tile_puzzler_game_and_solver) | Solves tile puzzles intelligently using pattern-matching algorithms.                              |
-| [Password Manager](https://github.com/JosephLeKH/gui-password-manager)           | A secure and easy-to-use GUI app for managing encrypted passwords.                                 |
 
 ---
 
