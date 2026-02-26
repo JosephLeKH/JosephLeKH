@@ -1,73 +1,93 @@
-# 🏆 **Welcome to Joseph Le's GitHub!** 🏆  
-**Stanford University | Computer Science & Mathematics | QuestBridge Scholar**  
-📧 josephle@stanford.edu | 🌐 [linkedin.com/in/hung-le-](http://www.linkedin.com/in/hung-le-/)  
+# Joseph Le
+
+Computer Science student at **Stanford University (Systems & AI Track)** building production-grade systems and applied machine learning infrastructure.
+
+Bay Area, CA  
+📫 josephle@stanford.edu  
+🔗 [LinkedIn](https://www.linkedin.com/in/hung-le-/)
 
 ---
 
-## 📘 **About Me**
+## Focus
 
-Hey there! I’m **Joseph Le**, a Stanford student passionate about tech and problem-solving. I build projects that make cool ideas come to life!
-
----
-
-## 🎓 **Education**  
-- **Stanford University** | B.S. in Math and Computer Science
-  ✈ Palo Alto, CA | Graduation: June 2027
-- CS+Social Goods Fellow 
-- QuestBridge Scholar 💸  
-- National Merit Scholar 🌟  
+- Distributed and backend system design  
+- Applied machine learning and ML infrastructure  
+- Data modeling, pipelines, and evaluation systems  
+- End-to-end ownership from architecture to deployment  
 
 ---
 
-## 💼 **Work Experience**
+## Experience
 
-| Role                     | Company          | Time                     |
-|--------------------------|------------------|--------------------------|
-| Machine Learning Intern | NeuroTrack   | Oct 2025 - Present     |
-| Founding Software Engineer | Bases Insight   | Aug 2025 - Present     |
-| CS 106A/B Teaching Assistant | Stanford University   | Sep 2025 - Present     |
-| AI and Machine Learning Intern | Jersey Mike's Sub   | May 2025 – Oct 2025     |
-| Data Science Intern | Bonterra   | Jun 2024 – Aug 2025     |
-| Data Science & SWE Team | Stanford Data and Mapping for Society   | Jan 2025 – June 2025     |
-| Full-Stack Software Engineering Intern | AiGo Learning   | Jun 2023 – Aug 2024     |
-| Computer Science Instructor | Thinkland AI    | May 2023 – Aug 2024     |
+### Incoming Software Engineering Intern — Apple
+Internal Tools team. Building scalable internal systems supporting engineering productivity.
 
----
+### Software Engineering Intern — Vimes  
+Developing infrastructure for a cross-agency welfare and crisis-intervention platform that unifies data and workflows between child protection services, law enforcement, and community partners.
 
-## 🌟 **Featured Projects**
+### Machine Learning Research Intern — Neurotrack  
+Built and evaluated machine learning models to detect Mild Cognitive Impairment (MCI) and dementia from cognitive assessment data. Developed preprocessing, feature engineering, and model validation pipelines supporting ongoing clinical research.
 
-| Project                     | Description                                                                                             |
-|-----------------------------|---------------------------------------------------------------------------------------------------------|
-| [GrantMate](https://github.com/JosephLeKH/GrantMate) | AI assistant automating grant writing using RAG, semantic search, and sponsor-aware tailoring. |
-| [CA Wildfire Insurance Analysis](https://github.com/JosephLeKH/wildfire_insurance_analysis) | Data science analysis of how California wildfires reshape home insurance markets. |
-| [SemEval 2025 Task 11](https://github.com/JosephLeKH/semeval2025_task11_trackb) | Multilingual BERT-based model for emotion intensity prediction across 11 languages.                   |
-| [NBA Curry ML Analysis](https://github.com/JosephLeKH/nba_curry_ml_analysis) | A data science and ML study quantifying Stephen Curry’s impact on the Warriors across 15 NBA seasons. |
-| [ACM Bird Classification](https://github.com/JosephLeKH/acm_cnn_bird_classification) | A CNN with **88% accuracy** classifying bird species for ecological conservation.                   |
-| [PoliAware](https://github.com/NextGenPolicTech/PoliAware)                              | Connects users with their representatives using real-time political data and dynamic APIs.       |
-| [Tone Matrix](https://github.com/JosephLeKH/tone_matrix)                         | A fun **16x16 grid synthesizer** that turns user toggles into rhythms and melodies.                |
-| [Huffman Encoding](https://github.com/JosephLeKH/huffman_encoding)               | Implements **Huffman Coding** for file compression with an intuitive CLI tool.                     |
-| [Particle Visualizer](https://github.com/JosephLeKH/particle_system_visualizer)   | Simulates explosions, fireworks, and fountains with stunning physics-based visuals.                |
-| [Blackjack Game](https://github.com/JosephLeKH/blackjack-game)                   | A customizable Java Blackjack game with a sleek, user-friendly GUI.                                |
-| [Maze Solver](https://github.com/JosephLeKH/maze_solver_graphic)                 | Visualizes BFS/DFS algorithms solving mazes in real time.                                          |
-| [Tile Puzzle Solver](https://github.com/JosephLeKH/tile_puzzler_game_and_solver) | Solves tile puzzles intelligently using pattern-matching algorithms.                              |
+### Software Engineer — Stanford Carta Lab  
+Built core planning features for Stanford’s four-year course planner, implementing interactive scheduling workflows and improving system reliability and state management.
+
+### Founding Software Engineer — Bases Insight  
+Architected and built a production financial analysis platform powering automated valuation workflows (DCF, comps, three-statement modeling). Owned backend services, data pipelines, and deployment infrastructure with emphasis on scalability and correctness.
+
+### Data Science Intern — Bonterra Tech  
+Developed predictive models and large-scale data pipelines analyzing donor behavior. Built causal inference workflows to estimate treatment effects and support data-driven decision-making across millions of records.
+
+### Teaching Assistant — CS106A / CS106B (Stanford)  
+Led weekly sections reinforcing programming abstractions, data structures, and algorithmic thinking. Mentored students on debugging, performance tradeoffs, and clean software design.
 
 ---
 
-## 🎯 **Extracurriculars**
-- **Stanford CS + Social Good**  
-  ✨ Vice President (Sep 2024 – Present): Lead organizational operations and support the President by managing events, communications, and team initiatives.
+## Selected Technical Projects
 
-- **Stanford ACM**  
-  🔄 MLab Research Team (Sep 2024 – Present): Designed and trained a CNN for bird species classification; contributed to ML research discussions. Secured 1st place in Estimathon competition.  
+### GrantMate — Retrieval-Augmented Generation System  
+AI-powered grant writing assistant built using RAG architecture for sponsor-aware document generation.  
+Designed backend retrieval pipelines, embedding workflows, and prompt evaluation loops for accuracy and usability.  
+**Stack:** FastAPI · React · TypeScript · Docker
+
+### SemEval 2025 — Multilingual Emotion Intensity Prediction  
+Built and evaluated transformer-based multilingual regression models across 11 languages under benchmark constraints.  
+Focused on modeling robustness, evaluation metrics, and performance tradeoffs.  
+**Stack:** PyTorch · HuggingFace Transformers · Multilingual BERT
+
+### Wildfire Insurance Market Analysis  
+Large-scale data analysis examining the impact of wildfire severity on insurance non-renewals and FAIR Plan reliance in California.  
+Built structured data pipelines and statistical modeling workflows.  
+**Stack:** Python · Pandas · SQL · Matplotlib
+
+### Portfolio Website  
+Engineered and deployed a high-performance personal site with emphasis on clean architecture, animation performance, and maintainability.  
+**Stack:** Next.js · React · TypeScript · GSAP
 
 ---
 
-## 🛠️ **Skills**
+## Technical Skills
 
-**Languages**: Python, SQL (Snowflake, SQLite), Java, C, C++, R, Swift, JavaScript (React, D3.js, Node.js), HTML/CSS 🌐  
-**Libraries/Frameworks**: scikit-learn, XGBoost, TensorFlow, PyTorch, EconML, CausalML, Flask, Pandas, NumPy 🤖  
-**Tools/Platforms**: AWS, Git, Selenium, MATLAB 🛠️  
+### Languages
+Python · TypeScript · Java · C++ · SQL
+
+### Machine Learning & Data
+PyTorch · scikit-learn · XGBoost · HuggingFace · Feature Engineering · Model Evaluation · Causal Inference
+
+### Backend & Infrastructure
+FastAPI · Node.js · PostgreSQL · Docker · AWS · REST APIs · Data Pipelines
+
+### Systems
+Operating Systems · Algorithms · Data Structures · Distributed Systems Fundamentals
 
 ---
 
-🌟 _Aspiring innovator and tech enthusiast, ready to make an impact!_
+## Education
+
+**Stanford University**  
+B.S. Computer Science (Systems & AI Track)  
+GPA: 3.95  
+Expected June 2027  
+
+CS + Social Goods Fellow  
+QuestBridge Scholar  
+National Merit Scholar
