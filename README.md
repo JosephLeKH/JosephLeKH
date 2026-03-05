@@ -44,6 +44,10 @@ Led weekly sections reinforcing programming abstractions, data structures, and a
 
 ## Selected Technical Projects
 
+### coderev — AI-Powered Code Review CLI
+Developer-facing CLI that reviews git diffs via AWS Bedrock before you push, flagging bugs, security issues, and performance problems with inline GitHub PR comment support.                                                                                               Built the full pipeline: diff parsing, parallel LLM calls with streaming, structured output, and GoReleaser binary distribution.  
+**Stack:** Go · AWS Bedrock · GitHub REST API · Cobra
+
 ### GrantMate — Retrieval-Augmented Generation System  
 AI-powered grant writing assistant built using RAG architecture for sponsor-aware document generation.  
 Designed backend retrieval pipelines, embedding workflows, and prompt evaluation loops for accuracy and usability.  
@@ -68,7 +72,7 @@ Engineered and deployed a high-performance personal site with emphasis on clean 
 ## Technical Skills
 
 ### Languages
-Python · TypeScript · Java · C++ · SQL
+Python · TypeScript · Java · C++ · SQL · Go 
 
 ### Machine Learning & Data
 PyTorch · scikit-learn · XGBoost · HuggingFace · Feature Engineering · Model Evaluation · Causal Inference
