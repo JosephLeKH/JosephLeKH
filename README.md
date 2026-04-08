@@ -55,7 +55,7 @@ Designed backend retrieval pipelines, embedding workflows, and prompt evaluation
 **Stack:** FastAPI · React · TypeScript · Docker
 
 ### Portfolio Website — Personal site & contact
-Next.js App Router portfolio with animated sections (Framer Motion, GSAP, Locomotive Scroll), Tailwind styling, and a server-side contact form via Nodemailer. Deployed on Vercel with Web Analytics, structured around static content for experience, projects, and education.
+Next.js App Router portfolio with animated sections (Framer Motion, GSAP, Locomotive Scroll), Tailwind styling, and a server-side contact form powered by Resend. Deployed on Vercel with Web Analytics, structured around static content for experience, projects, and education.
 **Stack:** Next.js · React · TypeScript · Framer Motion · GSAP · Vercel
 
 ### SemEval 2025 — Multilingual Emotion Intensity Prediction  
