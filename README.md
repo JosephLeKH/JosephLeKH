@@ -4,7 +4,7 @@ Computer Science student at **Stanford University (Systems & AI Track)** buildin
 
 Bay Area, CA  
 📫 josephle@stanford.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/hung-le-/)
+🔗 [LinkedIn](https://www.linkedin.com/in/hung-le-/)  
 🏠 [Portfolio Website](https://josephle-le.vercel.app/)
 
 ---
@@ -54,6 +54,10 @@ AI-powered grant writing assistant built using RAG architecture for sponsor-awar
 Designed backend retrieval pipelines, embedding workflows, and prompt evaluation loops for accuracy and usability.  
 **Stack:** FastAPI · React · TypeScript · Docker
 
+### Portfolio Website — Personal site & contact
+Next.js App Router portfolio with animated sections (Framer Motion, GSAP, Locomotive Scroll), Tailwind styling, and a server-side contact form via Nodemailer. Deployed on Vercel with Web Analytics, structured around static content for experience, projects, and education.
+**Stack:** Next.js · React · TypeScript · Framer Motion · GSAP · Vercel
+
 ### SemEval 2025 — Multilingual Emotion Intensity Prediction  
 Built and evaluated transformer-based multilingual regression models across 11 languages under benchmark constraints.  
 Focused on modeling robustness, evaluation metrics, and performance tradeoffs.  
@@ -63,10 +67,6 @@ Focused on modeling robustness, evaluation metrics, and performance tradeoffs.
 Large-scale data analysis examining the impact of wildfire severity on insurance non-renewals and FAIR Plan reliance in California.  
 Built structured data pipelines and statistical modeling workflows.  
 **Stack:** Python · Pandas · SQL · Matplotlib
-
-### Portfolio Website  
-Engineered and deployed a high-performance personal site with emphasis on clean architecture, animation performance, and maintainability.  
-**Stack:** Next.js · React · TypeScript · GSAP
 
 ---
 
@@ -91,7 +91,7 @@ Operating Systems · Algorithms · Data Structures · Distributed Systems Fundam
 **Stanford University**  
 B.S. Computer Science (Systems & AI Track)  
 GPA: 3.95  
-Expected June 2027  
+Expected June 2028
 
 CS + Social Goods Fellow  
 QuestBridge Scholar  
