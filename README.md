@@ -91,7 +91,7 @@ Operating Systems · Algorithms · Data Structures · Distributed Systems Fundam
 **Stanford University**  
 B.S. Computer Science (Systems & AI Track)  
 GPA: 3.95  
-Expected June 2028
+Expected June 2027
 
 CS + Social Goods Fellow  
 QuestBridge Scholar  
