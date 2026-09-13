@@ -21,7 +21,7 @@ Bay Area, CA
 ## Experience
 
 ### Software Engineering Intern — Apple
-SWE Planning & Infrastructure Team. Building a scalable internal tool to support the SWE organization.
+SWE Planning & Infrastructure Team. Built a scalable internal tool to support the SWE organization.
 
 ### Software Engineering Intern — Vimes  
 Developing infrastructure for a cross-agency welfare and crisis-intervention platform that unifies data and workflows between child protection services, law enforcement, and community partners.
